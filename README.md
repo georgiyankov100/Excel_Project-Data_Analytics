@@ -1,5 +1,5 @@
 # Excel Data Analytics Projects
-Project demonstrating my Excel skills and knoledge
+Project demonstrating my Excel skills and knowledge
 
 ## Salary Dashboard  
 intro text  
